@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         DocumentFactory contractFactory = new ContractFactory();
-        Document contract = contractFactory.createDocument("This is a contract for the supply of goods");
+        Document contract = contractFactory.createDocument("This is a contract for the supply of goods.");
         contract.generate("C:\\Users\\mugiwara\\Documents" +
                 "\\Design Patterns\\DocumentManagement\\src\\contract.txt");
 

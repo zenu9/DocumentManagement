@@ -1,2 +1,2 @@
 --Contract--
-This is a contract for the supply of goods
+This is a contract for the supply of goods.
