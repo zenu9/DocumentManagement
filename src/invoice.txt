@@ -1,0 +1,2 @@
+--Invoice--
+Payment is due within 30 days of receiving the invoice.This invoice states that we will have to pay $1,500.
